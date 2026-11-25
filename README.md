@@ -111,3 +111,8 @@ If you finish early or want an extra challenge, try one of these:
 - Stay curious. The unpredictability is intentional and part of the experience.
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
+
+
+## Portfolio context
+
+See [portfolio notes](PORTFOLIO.md) for project classification, attribution and verification status.
